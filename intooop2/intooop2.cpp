@@ -17,7 +17,11 @@ class bangunan {
             cin >> lebar;
         }
 
-        float hitungluas
+        float hitungluas() {
+            return panjang * lebar;
+        }
+
+
 };
 
 
