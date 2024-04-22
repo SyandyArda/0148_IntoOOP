@@ -21,7 +21,7 @@ class bangunan {
             return panjang * lebar;
         }
 
-
+        void display
 };
 
 
