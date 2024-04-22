@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class bangunan {
+class bangunDatar {
 
     //akses modifier
     private:
@@ -28,24 +28,10 @@ class bangunan {
         }
 };
 
+int main() {
+    bangunDatar pp; // deklarasi objek pp dari class bangunDatar
+    pp.input();
+    pp.display();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-int main()
-{
-    
+    return 0;
 }
-
