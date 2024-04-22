@@ -9,7 +9,11 @@ class bangunan {
     public:
         float luas;
 
-        void input
+        void input() { // metode input persegi panjang
+
+            cout << "Masukan Panjangnya = ";
+            cout
+        }
 };
 
 
