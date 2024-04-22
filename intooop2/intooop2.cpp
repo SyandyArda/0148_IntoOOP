@@ -12,7 +12,7 @@ class bangunan {
         void input() { // metode input persegi panjang
 
             cout << "Masukan Panjangnya = ";
-            cout
+            cin >> panjang;
         }
 };
 
